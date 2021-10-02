@@ -1,5 +1,6 @@
 - 👽 Hi, I’m @ParanoidAndr01d
 - 👩 I'm a Computer Science student at Unit-AL
+- 🛡️  Member of Cybersec-CPTE
 - 🧠 I’m currently learning about neural networks in Python
 - 💞️ I’m also in the process of learning other stuff (including French and German!)
 - 🤖 As you can probably guess by my username, I'm a big Radiohead fan.
