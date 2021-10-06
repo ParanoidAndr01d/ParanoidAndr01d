@@ -1,7 +1,7 @@
 - 👽 Hi, I’m @ParanoidAndr01d
 - 👩 I'm a Computer Science student at Unit-AL
 - 🛡️  Member of CyberSec-CPTE
-- 🧠 I'm always trying to learn new stuff
+- 🧠 Always in the process of trying to learn new stuff
 - 🤖 As you can probably guess by my username, I'm a big Radiohead fan.
 - 😝 Take a guess at my favorite song.
 
