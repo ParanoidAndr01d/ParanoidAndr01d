@@ -10,5 +10,5 @@ ParanoidAndr01d/ParanoidAndr01d is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParanoidAndr01d&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParanoidAndr01d&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParanoidAndr01d&show_icons=true&theme=dracula&count_private=true)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParanoidAndr01d&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
